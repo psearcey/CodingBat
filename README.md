@@ -1,3 +1,3 @@
 # CodingBat
 Questions and solutions to the CodingBat code practice.
-CodingBat.com
+/n CodingBat.com
